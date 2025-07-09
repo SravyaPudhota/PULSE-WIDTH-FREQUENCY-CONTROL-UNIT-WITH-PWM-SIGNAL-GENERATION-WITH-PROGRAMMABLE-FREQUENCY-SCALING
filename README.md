@@ -1,0 +1,2 @@
+# PULSE-WIDTH-FREQUENCY-CONTROL-UNIT-WITH-PWM-SIGNAL-GENERATION-WITH-PROGRAMMABLE-FREQUENCY-SCALING
+This project presents the design and implementation of a Pulse Width Frequency Control Unit that generates a Pulse Width Modulated (PWM) signal with programmable frequency scaling. The system allows precise control over both duty cycle and output frequency, enabling flexible signal modulation for embedded and power electronics applications.
